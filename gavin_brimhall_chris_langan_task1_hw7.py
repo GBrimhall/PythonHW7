@@ -94,7 +94,7 @@ def CheckDoors(inputList = []):
 
 			else:
 				#Master lock is not active
-				print("Boths doors stay closed")
+				print("Both doors stay closed")
 		else:
 			#Car is not in park
 			print ("Both door stay closed")
