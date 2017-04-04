@@ -1,0 +1,98 @@
+commit ea1990a608e337ad7479ec52f6ff55de2ff3d3df
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 21:32:11 2017 -0600
+
+    Delete .gavin_brimhall_chris_langan_task2_hw7Mod2.py.swp
+
+commit 3a5ad2e6625366b419cd2ccec1aa5cda442466e1
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 21:31:57 2017 -0600
+
+    Delete .gavin_brimhall_chris_langan_task2_hw7.py.swp
+
+commit 8e4d6a2754d53361a84e0fc1b044b7fc433f410c
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 21:31:42 2017 -0600
+
+    Delete .gavin_brimhall_chris_langan_task2_hw7.py.swo
+
+commit 7939933d3b39db3b12583a41b49aad97d32cea67
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 21:31:27 2017 -0600
+
+    Delete .gavin_brimhall_chris_langan_task2_hw7.py.swn
+
+commit e5ddf2f1978630106d6a7a6603476d2c2fc8e322
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 21:27:15 2017 -0600
+
+    Final commit of all files Gavin
+
+commit ab573340905a333eb8ae2ce8bacdba176f6cdf38
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Mon Apr 3 12:23:29 2017 -0600
+
+    final commit of this assignment
+
+commit bdc4bf75c9b3e6696e6a055c38add0e59148be77
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Sun Apr 2 18:34:41 2017 -0600
+
+    Updated task 2 module 1
+
+commit 41f6ba68ec2508e74c495dbe85719ee6061329dd
+Author: Chris Langna <chris.langan195@gmail.com>
+Date:   Fri Mar 31 16:38:32 2017 -0600
+
+    Task 1 finished
+
+commit c913048dbdbde8664d167618669135d50acc9922
+Author: Chris Langna <chris.langan195@gmail.com>
+Date:   Fri Mar 31 14:45:13 2017 -0600
+
+    Task 1 module 1 functional
+
+commit eaacaf8b472180c5cc24e559562eaa93c14829c9
+Merge: 7ba5303 c0e3897
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Thu Mar 30 20:57:50 2017 -0600
+
+    Merge branch 'master' of https://github.com/GBrimhall/PythonHW7
+
+commit 7ba5303ada55e6c1d210c10a97a762a052b11702
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Thu Mar 30 20:57:00 2017 -0600
+
+    Added the task2 mod2 file
+
+commit c0e38974c95f5b01ce03ea2a4b6727ea39139b11
+Author: Chris Langna <chris.langan195@gmail.com>
+Date:   Thu Mar 30 20:48:02 2017 -0600
+
+    Started work on task1
+
+commit 503aff39a1ddfe4ec02467e2f366cc3d891b5c07
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Tue Mar 28 13:15:25 2017 -0600
+
+    Add the task2.py file
+
+commit c055e9e4fe2b7ba392cd6df3e1415dca2ef58434
+Author: Gavin Brimhall <gavinbrimhall@mail.weber.edu>
+Date:   Tue Mar 28 13:13:55 2017 -0600
+
+    Add the blank task1.py file
+
+commit 34551b1f1392c9136fbf630ba4ef9cfcecdb8cc5
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Tue Mar 28 13:02:28 2017 -0600
+
+    Updated the README file
+    
+    Added a description of the two tasks that are required to be finished.
+
+commit da23eb24dab9af206d26c5a19f36b9c9af8b4ada
+Author: GBrimhall <gavinbrimhall@mail.weber.edu>
+Date:   Tue Mar 28 12:44:58 2017 -0600
+
+    Initial commit
